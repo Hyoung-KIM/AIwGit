@@ -1,0 +1,9 @@
+  cd AIwGit
+  vim README.md
+  git init
+  git add README.md
+  git commit -m "First committing"
+  git remote add origin https://github.com/Hyoung-KIM/AIwGit.git
+  git push -u origin master
+  git add *.py
+  git status
